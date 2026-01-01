@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "PyLocalizer"
 description = "A module that lets you change between locales mid-app."
-authors = [{name="MF366-Coding"}]
+authors = [{name="matty-the-dev"}]
 version = "0.0.4"
 readme = "README.md"
 requires-python = ">=3.11"
@@ -20,6 +20,6 @@ classifiers = [
 ]
 
 [project.urls]
-"Github Repo" = "https://github.com/MF366-Coding/PyLocalizer"
-"Bug Tracker" = "https://github.com/MF366-Coding/PyLocalizer/issues"
-"Pull Requests" = "https://github.com/MF366-Coding/PyLocalizer/pulls"
+"Github Repo" = "https://github.com/matty-the-dev/PyLocalizer"
+"Bug Tracker" = "https://github.com/matty-the-dev/PyLocalizer/issues"
+"Pull Requests" = "https://github.com/matty-the-dev/PyLocalizer/pulls"
